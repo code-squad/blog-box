@@ -38,8 +38,11 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 [아마존 메가메뉴 (valillaJS와 Canvas API)](https://vanary.com/kr/devlog/devlog181213.html)
 
 
+
 [입문 개발자가 느낀 ‘자바스크립트 객체 이런게 되다니!’ Top 3](https://medium.com/@Boyoung_KIM/입문-개발자가-느낀-자바스크립트-객체-이런게-되다니-top-3-2a234f7177f2)
 
 
+
+[JavaScript 배열메서드](https://www.notion.so/kakafe/JavaScript-bff7cd6b0cf847cab619fe520b1cbe29)
 
 
