@@ -53,3 +53,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 [JS_ES6_Symbol](https://medium.com/@lyhy0310/js-keywords-01-symbol-d4de06823491)
 
 [JS_Basic_This](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff)
+
+
+
+[JS prototype](https://medium.com/@mrdoo309/js-prototype-ecbb7340d65b)
