@@ -46,3 +46,5 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 [JavaScript 배열메서드](https://www.notion.so/kakafe/JavaScript-bff7cd6b0cf847cab619fe520b1cbe29)
 
 
+[javascript asynchronous - Call Back & Promise](https://www.notion.so/vonzoo/javascript-asynchronous-Call-Back-Promise-ebbeb5c7fe8a4a74bfbb2ef57c13dba4)
+
