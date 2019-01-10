@@ -57,3 +57,5 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 
 [JS prototype](https://medium.com/@mrdoo309/js-prototype-ecbb7340d65b)
+
+[Intersection Observer API의 사용법과 활용방법](https://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
