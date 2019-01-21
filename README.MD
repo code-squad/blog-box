@@ -46,11 +46,14 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 [JavaScript 배열메서드](https://www.notion.so/kakafe/JavaScript-bff7cd6b0cf847cab619fe520b1cbe29)
 
 
+
 [javascript asynchronous - Call Back & Promise](https://www.notion.so/vonzoo/javascript-asynchronous-Call-Back-Promise-ebbeb5c7fe8a4a74bfbb2ef57c13dba4)
 
 
 
 [JS_ES6_Symbol](https://medium.com/@lyhy0310/js-keywords-01-symbol-d4de06823491)
+
+
 
 [JS_Basic_This](https://medium.com/@lyhy0310/js-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-01-this-%ED%8E%B8-9b05663a5aff)
 
@@ -58,4 +61,10 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [JS prototype](https://medium.com/@mrdoo309/js-prototype-ecbb7340d65b)
 
+
+
 [Intersection Observer API의 사용법과 활용방법](https://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
+
+
+
+[Debounce란 뭘까요?](https://medium.com/@feanar729/debounce%EB%9E%80-%EB%AD%98%EA%B9%8C%EC%9A%94-82204c8b953f)
