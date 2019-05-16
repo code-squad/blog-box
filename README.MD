@@ -4,6 +4,9 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 
 # 2019
+
+[fibonacci 수열을 이용한 recursion (feat. 꼬리재귀)](https://aftersnowing.tistory.com/3?category=750277)
+
 [JS - Object Destructing 활용하기](https://github.com/P-iknow/dev-log/blob/master/JS/objectDestruction.md)
 
 [Intersection Observer API의 사용법과 활용방법](https://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
