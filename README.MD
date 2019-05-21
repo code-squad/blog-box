@@ -4,7 +4,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 
 # 2019
-
+[자바스크립트 프로토타입](https://gminiy.github.io/javascript/2019/05/14/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.html)
 [JS - this를 변경하는 call(), apply(), bind()](https://leehwarang.github.io//docs/tech/call_apply_bind.html)
 
 [fibonacci 수열을 이용한 recursion (feat. 꼬리재귀)](https://aftersnowing.tistory.com/3?category=750277)
