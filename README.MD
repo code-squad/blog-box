@@ -22,6 +22,8 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [함수형 자바스크립트 빠르게 읽어보기](https://pa-pico.tistory.com/98)
 
+[자바스크립트 라이브러리 배포를 위한 웹팩(webpack) 설정 경험기](http://blog.hyeyoonjung.com/2019/05/26/setting-webpack-for-javascript-library/)
+
 
 # 2018
 
