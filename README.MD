@@ -4,6 +4,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 
 # 2019
+
 [자바스크립트 프로토타입](https://gminiy.github.io/javascript/2019/05/14/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.html)
 
 [JS - this를 변경하는 call(), apply(), bind()](https://leehwarang.github.io//docs/tech/call_apply_bind.html)
@@ -24,6 +25,41 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [자바스크립트 라이브러리 배포를 위한 웹팩(webpack) 설정 경험기](http://blog.hyeyoonjung.com/2019/05/26/setting-webpack-for-javascript-library/)
 
+[정규표현식 공부방법](https://medium.com/@kiljh11/정규표현식-공부-방법-유용한-사이트-목록-2b1a21f97174)
+
+## Swift
+
+[스위프트 클로저](https://medium.com/@sunghyun_k/swift-클로저-closure-518ca1274ed4)
+
+[Swift GuidedTour](https://github.com/sunghyun-k/SwiftGuidedTourKR)
+
+[열거형](https://medium.com/@kiljh11/스위프트-열거형-6d5b5702130a)
+
+[클로저](https://medium.com/@kiljh11/스위프트-클로저-3b47bf2b4acf)
+
+[구조체 이니셜라이저](https://medium.com/@jgj455/오늘의-swift-상식-초기화-값-타입의-initializer-1e3d329050c6 
+)
+
+[클래스의 이니셜라이저](https://medium.com/@jgj455/오늘의-swift-상식-initializer-2편-클래스의-initializer-7141cda4ecf2)
+
+[스위프트 이니셜라이저](https://medium.com/@kiljh11/스위프트-이니셜라이저-초기화-a1479a69563c
+)
+
+## SOLID 
+
+[GRASP 원칙](https://medium.com/@codesquad_yoda/스위프트와-grasp-패턴-d5e37a1bb5dc)
+
+[SOLID 원칙 - mindy](https://cmindy.tistory.com/19)
+
+[SOLID 원칙 - daheen](https://daheenallwhite.github.io/programming/oop/solid%20principles/2019/05/16/SOLID-Principles.html)
+
+[SOLID 원칙 - dominic](https://kiljh.tistory.com/entry/SOLID-원칙)
+
+[SOLID 원칙 - aiden](https://medium.com/@jgj455/오늘의-swift-상식-객체와-solid-원칙-270415c64b64)
+
+[SOLID 원칙 - sk](https://medium.com/@sunghyun_k/solid-원칙에-따라-객체-설계하기-d7378e00afa6)
+
+[SOLID 원칙 - owl](https://o-o-wl.tistory.com/26)
 
 # 2018
 
