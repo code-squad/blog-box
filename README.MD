@@ -19,7 +19,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [객체 의존성 (Obejct Dependency)? 의존성 주입(Dependency Injection)?](https://hyodol-development-note.tistory.com/2)
 
-[Spark 입문하기](https://nailerheum.github.io/2019/05/17/Spark-Adventure1/)
+[Spark 입문하기](https://nailerheum.github.io/2019/05/17/spark/Spark-Adventure1/)
 
 [함수형 자바스크립트 빠르게 읽어보기](https://pa-pico.tistory.com/98)
 
@@ -71,7 +71,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [크롬익스텐션](https://drive.google.com/file/d/1Hv7_HhS-3VDpROqlXfSS514xFYHj9OZ7/view?usp=drivesdk)
 
-[UX의 다른얼굴](https://drive.google.com/file/d/1ClhkpYuFZPStV0pFAQHxwYiYRRtu3ZQO/view?usp=drivesdk)
+[UX의 다른얼굴](https://www.dropbox.com/s/ri787jpirwa7qxt/UX%EC%9D%98%20%EB%8B%A4%EB%A5%B8%20%EC%96%BC%EA%B5%B4.pdf?dl=0)
 
 [함수프로그래밍 겉핥기](https://docs.google.com/presentation/d/e/2PACX-1vSJi9PEa3etAgfX6NLN2Pia-j7XUsLTG88G5ljiCT-zX7SkcaGDS9J0hqrar27DK1QrLMoJIeK6IPuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
